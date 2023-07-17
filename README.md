@@ -4,4 +4,4 @@ Python GUI program that plots an arbitrary user-entered function of x from the u
 using Pyside2 and Matplotlib.
 
 ![Alt text](last-version.png)
-![Alt text](last-version2.png)
+![Alt text](last-version-2.png)
